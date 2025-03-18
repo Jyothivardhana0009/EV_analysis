@@ -1,0 +1,53 @@
+state_fips,state_name,mean_family_income
+01,Alabama,87316
+72,Puerto Rico,36333
+04,Arizona,95718
+05,Arkansas,79407
+06,California,116870
+08,Colorado,116632
+09,Connecticut,129296
+10,Delaware,102769
+11,District of Columbia,215121
+12,Florida,90018
+13,Georgia,98384
+15,Hawaii,113919
+16,Idaho,88433
+17,Illinois,108583
+18,Indiana,91970
+19,Iowa,96168
+20,Kansas,95458
+21,Kentucky,83954
+22,Louisiana,88243
+23,Maine,93712
+24,Maryland,135128
+25,Massachusetts,136843
+26,Michigan,95246
+27,Minnesota,113456
+28,Mississippi,82789
+29,Missouri,92163
+30,Montana,91666
+31,Nebraska,99687
+32,Nevada,92779
+33,New Hampshire,121400
+34,New Jersey,132308
+35,New Mexico,86242
+36,New York,113319
+37,North Carolina,93659
+38,North Dakota,101310
+39,Ohio,97373
+40,Oklahoma,84793
+41,Oregon,101259
+42,Pennsylvania,103315
+44,Rhode Island,116036
+45,South Carolina,90012
+46,South Dakota,93567
+47,Tennessee,89329
+48,Texas,98041
+49,Utah,100616
+50,Vermont,102010
+51,Virginia,118799
+53,Washington,118038
+54,West Virginia,79548
+55,Wisconsin,99381
+56,Wyoming,93500
+02,Alaska,109728
