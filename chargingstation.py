@@ -2,7 +2,7 @@ import requests
 import csv
 import os
 
-def get_all_ev_charging_stations_with_address(country_code="US", api_key="b36eb2ab-fcc3-4621-b091-efbaed478e5c", batch_size=1000):
+def get_all_ev_charging_stations_with_address(country_code="US", api_key="api_key", batch_size=1000):
     
     url = "https://api.openchargemap.io/v3/poi"
     headers = {
