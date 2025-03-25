@@ -32,8 +32,8 @@ Visualizations were generated in Tableau to effectively communicate the analysis
   Income vs. EV Adoption: Illustrating the direct relationship between states’ average income and electric vehicle adoption levels.
   Charging Infrastructure Insights: Highlighting gaps and opportunities in EV charging infrastructure across different economic regions.
 
-[image](https://github.com/Jyothivardhana0009/EV_analysis/blob/main/image.png)
-[image](https://github.com/Jyothivardhana0009/EV_analysis/blob/main/EV_2.jpg)
+![image](https://github.com/Jyothivardhana0009/EV_analysis/blob/main/image.png)
+![image](https://github.com/Jyothivardhana0009/EV_analysis/blob/main/EV_2.jpg)
 
  
 
